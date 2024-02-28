@@ -1,2 +1,0 @@
-plotly_express
-Data_gabungan_well_edit.xlsx

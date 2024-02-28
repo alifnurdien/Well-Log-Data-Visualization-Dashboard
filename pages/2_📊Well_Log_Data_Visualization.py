@@ -1,7 +1,6 @@
 import pandas as pd
 import plotly_express as px
 import streamlit as st
-import matplotlib.pyplot as plt
 
 #link emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="Welcome to Well Log Data Visualization",
